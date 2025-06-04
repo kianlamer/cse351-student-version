@@ -2,7 +2,7 @@
 Course: CSE 351
 Team  : Week 06
 File  : team.py
-Author:  <Your name>
+Author:  Kian LaMer
 
 Purpose: Team Activity: 
 

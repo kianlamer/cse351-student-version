@@ -1,0 +1,215 @@
+Current: active threads / max count: 1 / 1
+Request: /start
+Loading city data sandiego
+Loading city data philadelphia
+Loading city data san_antonio
+Loading city data san_jose
+Loading city data new_york
+Loading city data houston
+Loading city data dallas
+Loading city data chicago
+Loading city data los_angeles
+Loading city data phoenix
+Sending: {"status":"OK"}
+Current: active threads / max count: 1 / 1
+Request: /city/sandiego
+Sending: {"status": "OK", "city": "sandiego", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/philadelphia
+Sending: {"status": "OK", "city": "philadelphia", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/san_antonio
+Sending: {"status": "OK", "city": "san_antonio", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/san_jose
+Sending: {"status": "OK", "city": "san_jose", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/new_york
+Sending: {"status": "OK", "city": "new_york", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/houston
+Sending: {"status": "OK", "city": "houston", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/dallas
+Sending: {"status": "OK", "city": "dallas", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/chicago
+Sending: {"status": "OK", "city": "chicago", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/los_angeles
+Sending: {"status": "OK", "city": "los_angeles", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/phoenix
+Sending: {"status": "OK", "city": "phoenix", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /start
+Loading city data sandiego
+Loading city data philadelphia
+Loading city data san_antonio
+Loading city data san_jose
+Loading city data new_york
+Loading city data houston
+Loading city data dallas
+Loading city data chicago
+Loading city data los_angeles
+Loading city data phoenix
+Sending: {"status":"OK"}
+Current: active threads / max count: 1 / 1
+Request: /city/sandiego
+Sending: {"status": "OK", "city": "sandiego", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/philadelphia
+Sending: {"status": "OK", "city": "philadelphia", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/san_antonio
+Sending: {"status": "OK", "city": "san_antonio", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/san_jose
+Sending: {"status": "OK", "city": "san_jose", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/new_york
+Sending: {"status": "OK", "city": "new_york", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/houston
+Sending: {"status": "OK", "city": "houston", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/dallas
+Sending: {"status": "OK", "city": "dallas", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/chicago
+Sending: {"status": "OK", "city": "chicago", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/los_angeles
+Sending: {"status": "OK", "city": "los_angeles", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/phoenix
+Sending: {"status": "OK", "city": "phoenix", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /start
+Loading city data sandiego
+Loading city data philadelphia
+Loading city data san_antonio
+Loading city data san_jose
+Loading city data new_york
+Loading city data houston
+Loading city data dallas
+Loading city data chicago
+Loading city data los_angeles
+Loading city data phoenix
+Sending: {"status":"OK"}
+Current: active threads / max count: 1 / 1
+Request: /city/sandiego
+Sending: {"status": "OK", "city": "sandiego", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/philadelphia
+Sending: {"status": "OK", "city": "philadelphia", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/san_antonio
+Sending: {"status": "OK", "city": "san_antonio", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/san_jose
+Sending: {"status": "OK", "city": "san_jose", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/new_york
+Sending: {"status": "OK", "city": "new_york", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/houston
+Sending: {"status": "OK", "city": "houston", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/dallas
+Sending: {"status": "OK", "city": "dallas", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/chicago
+Sending: {"status": "OK", "city": "chicago", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/los_angeles
+Sending: {"status": "OK", "city": "los_angeles", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/phoenix
+Sending: {"status": "OK", "city": "phoenix", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /start
+Loading city data sandiego
+Loading city data philadelphia
+Loading city data san_antonio
+Loading city data san_jose
+Loading city data new_york
+Loading city data houston
+Loading city data dallas
+Loading city data chicago
+Loading city data los_angeles
+Loading city data phoenix
+Sending: {"status":"OK"}
+Current: active threads / max count: 1 / 1
+Request: /city/sandiego
+Sending: {"status": "OK", "city": "sandiego", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/philadelphia
+Sending: {"status": "OK", "city": "philadelphia", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/san_antonio
+Sending: {"status": "OK", "city": "san_antonio", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/san_jose
+Sending: {"status": "OK", "city": "san_jose", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/new_york
+Sending: {"status": "OK", "city": "new_york", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/houston
+Sending: {"status": "OK", "city": "houston", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/dallas
+Sending: {"status": "OK", "city": "dallas", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/chicago
+Sending: {"status": "OK", "city": "chicago", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/los_angeles
+Sending: {"status": "OK", "city": "los_angeles", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/phoenix
+Sending: {"status": "OK", "city": "phoenix", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /start
+Loading city data sandiego
+Loading city data philadelphia
+Loading city data san_antonio
+Loading city data san_jose
+Loading city data new_york
+Loading city data houston
+Loading city data dallas
+Loading city data chicago
+Loading city data los_angeles
+Loading city data phoenix
+Sending: {"status":"OK"}
+Current: active threads / max count: 1 / 1
+Request: /city/sandiego
+Sending: {"status": "OK", "city": "sandiego", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/philadelphia
+Sending: {"status": "OK", "city": "philadelphia", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/san_antonio
+Sending: {"status": "OK", "city": "san_antonio", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/san_jose
+Sending: {"status": "OK", "city": "san_jose", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/new_york
+Sending: {"status": "OK", "city": "new_york", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/houston
+Sending: {"status": "OK", "city": "houston", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/dallas
+Sending: {"status": "OK", "city": "dallas", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/chicago
+Sending: {"status": "OK", "city": "chicago", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/los_angeles
+Sending: {"status": "OK", "city": "los_angeles", "records": 10000}
+Current: active threads / max count: 1 / 1
+Request: /city/phoenix
+Sending: {"status": "OK", "city": "phoenix", "records": 10000}

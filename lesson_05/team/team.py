@@ -32,6 +32,11 @@ def is_prime(n):
         i += 6
     return True
 
+def process_number(number):
+    if is_prime(number):
+        return number
+    return None
+
 def main():
     log = Log(show_terminal=True)
     log.start_timer()
